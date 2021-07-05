@@ -115,7 +115,7 @@ Test case 2: Position of the automobile drivers face
 <img width="600" height="350" src="Images/2.png ">
 </p>
                                                                
-RESULT: As shown in above, When the automobile driver's face is positioned at the Centre, the face, eyes, eye blinks, and drowsiness was successfully detected.  
+Result: As shown in above, When the automobile driver's face is positioned at the Centre, the face, eyes, eye blinks, and drowsiness was successfully detected.  
 
 2. Right Positioned
 
@@ -123,7 +123,7 @@ RESULT: As shown in above, When the automobile driver's face is positioned at th
 <img width="600" height="350" src="Images/3.png ">
 </p>
                               
-RESULT: As shown in above, When the automobile driver's face is positioned at the Right, the face, eyes, eye blinks, and drowsiness was successfully detected. 
+Result: As shown in above, When the automobile driver's face is positioned at the Right, the face, eyes, eye blinks, and drowsiness was successfully detected. 
 
 3. Left Positioned     
                              
@@ -131,7 +131,7 @@ RESULT: As shown in above, When the automobile driver's face is positioned at th
 <img width="600" height="350" src="Images/4.png ">
 </p>
 
-RESULT: As shown in screen snapshot in above, when the automobile driver's face is positioned at the Left, the face, eyes, eye blinks, and drowsiness was successfully detected.  
+Result: As shown in screen snapshot in above, when the automobile driver's face is positioned at the Left, the face, eyes, eye blinks, and drowsiness was successfully detected.  
 
 Test case 3: When the automobile driver is wearing spectacles      
                                    
@@ -139,7 +139,7 @@ Test case 3: When the automobile driver is wearing spectacles
 <img width="600" height="350" src="Images/5.png ">
 </p>
 
-RESULT: As shown in  screen  snapshot  in  above, When  the  automobile  driver  is  wearing spectacles, the face, eyes, eye blinks, and drowsiness was successfully detected. 
+Result: As shown in  screen  snapshot  in  above, When  the  automobile  driver  is  wearing spectacles, the face, eyes, eye blinks, and drowsiness was successfully detected. 
 
 
 Test case 4: When the automobile driver’s head s tilted    
@@ -148,10 +148,41 @@ Test case 4: When the automobile driver’s head s tilted
 <img width="600" height="350" src="Images/6.png ">
 </p>
                                           
-RESULT: As shown in screen snapshot in above, when the automobile driver's face is tilted for more than 30 degrees from vertical plane, it was observed that the detection of face and eyes failed.  
+Result: As shown in screen snapshot in above, when the automobile driver's face is tilted for more than 30 degrees from vertical plane, it was observed that the detection of face and eyes failed.  
 
 The system was extensively tested even in real world scenarios, this was achieved by placing the camera on the visor of the car, focusing on the automobile driver. It was found that the system gave positive output unless there was any direct light falling on the camera.       
 
+## Future Scope
+
+Smart phone application: It can be implemented as a smart phone application, which can be installed on smart phones. And the automobile driver can start the application after placing it at a position where the camera is focused on the driver.
+
+<p align="center">
+<img width="600" height="350" src="Images/7.png ">
+</p>
+
+## References
+
+IEEE standard Journal Paper,
+
+[1]	Facial Features Monitoring for Real Time Drowsiness Detection by
+          Manu B.N, 2016 12th International Conference on Innovations in Information   
+          Technology (IIT) [Pg. 78-81]
+           https://ieeexplore.ieee.org/document/7880030
+
+[2]	Real Time Drowsiness Detection using Eye Blink Monitoring by Amna Rahman Department of Software Engineering Fatima Jinnah Women University 2015 National Software Engineering Conference (NSEC 2015)
+           https://ieeexplore.ieee.org/document/7396336
+
+Websites referred:
+
+1.	https://www.codeproject.com/Articles/26897/TrackEye-Real-Time-Tracking-Of-Human-Eyes- Using-a
+2.	https://realpython.com/face-recognition-with-python/
+      https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv- 
+       python-dlib/
+3.	https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv python/ 
+4.	https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv python/
+5.	https://www.codeproject.com/Articles/26897/TrackEye-Real-Time-Tracking-Of-HumanEyesUsing-a
+6.	https://docs.opencv.org/3.4/d7/d8b/tutorial_py_face_detection.html
+7.	https://www.learnopencv.com/training-better-haar-lbp-cascade-eye-detector-opencv/
 
 
 
