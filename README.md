@@ -157,32 +157,34 @@ The system was extensively tested even in real world scenarios, this was achieve
 Smart phone application: It can be implemented as a smart phone application, which can be installed on smart phones. And the automobile driver can start the application after placing it at a position where the camera is focused on the driver.
 
 <p align="center">
-<img width="600" height="350" src="Images/7.png ">
+<img width="600" height="350" src="Images/7.jpg ">
 </p>
 
 ## References
 
 IEEE standard Journal Paper,
 
-[1]	Facial Features Monitoring for Real Time Drowsiness Detection by
-          Manu B.N, 2016 12th International Conference on Innovations in Information   
-          Technology (IIT) [Pg. 78-81]
-           https://ieeexplore.ieee.org/document/7880030
+[1]	Facial Features Monitoring for Real Time Drowsiness Detection by Manu B.N, 2016 12th International Conference on Innovations in Information Technology (IIT) [Pg. 78-81] (https://ieeexplore.ieee.org/document/7880030)
 
-[2]	Real Time Drowsiness Detection using Eye Blink Monitoring by Amna Rahman Department of Software Engineering Fatima Jinnah Women University 2015 National Software Engineering Conference (NSEC 2015)
-           https://ieeexplore.ieee.org/document/7396336
+[2]	Real Time Drowsiness Detection using Eye Blink Monitoring by Amna Rahman Department of Software Engineering Fatima Jinnah Women University 2015 National Software Engineering Conference (NSEC 2015) (https://ieeexplore.ieee.org/document/7396336)
 
 Websites referred:
 
-1.	https://www.codeproject.com/Articles/26897/TrackEye-Real-Time-Tracking-Of-Human-Eyes- Using-a
+1.	https://www.codeproject.com/Articles/26897/TrackEye-Real-Time-Tracking-Of-Human-Eyes-
 2.	https://realpython.com/face-recognition-with-python/
-      https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv- 
-       python-dlib/
-3.	https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv python/ 
-4.	https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv python/
+3.	https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv
+4.	https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv
 5.	https://www.codeproject.com/Articles/26897/TrackEye-Real-Time-Tracking-Of-HumanEyesUsing-a
 6.	https://docs.opencv.org/3.4/d7/d8b/tutorial_py_face_detection.html
 7.	https://www.learnopencv.com/training-better-haar-lbp-cascade-eye-detector-opencv/
 
+
+## Author
+
+**Anshuman Srivastava**
+
+* Twitter: [@Anshuman_121](https://twitter.com/Anshuman_121)
+* Github: [@AnshumanSrivastava108](https://github.com/AnshumanSrivastava108)
+* LinkedIn: [@AnshumanSrivastava108](https://www.linkedin.com/in/anshumansrivastava108)
 
 
