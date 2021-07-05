@@ -78,7 +78,7 @@ These instructions will get you a copy of the project up and running on your loc
     python Real-Time-Drowsiness-Detection-System.py --shape-predictor shape_predictor_68_face_landmarks.dat --alarm Alert.wav
     ```
 
-##Alogorithm
+## Alogorithm
 
 1. Capture the image of the driver from the camera.
 2. Send the captured image to haarcascade file for face detection.
@@ -88,7 +88,7 @@ These instructions will get you a copy of the project up and running on your loc
 6. The cropped eye images are sent to the hough transformations for detecting pupils, which will determine whether they are open or closed.
 7. If they are found to be closed for five continuous frames, then the driver should be alerted by playing the buzzer.
 
-Note- For a more detailed explanation of this project check [*Real_Time_Drowsiness_Detection_System.pdf*](https://github.com/AnshumanSrivastava108/Real-Time-Drowsiness-Detection-System/blob/main/Real_Time_Drowsiness_Detection_System.pdf).
+For a more detailed explanation of this project check [*Real_Time_Drowsiness_Detection_System.pdf*](https://github.com/AnshumanSrivastava108/Real-Time-Drowsiness-Detection-System/blob/main/Real_Time_Drowsiness_Detection_System.pdf).
 
 ## Testing and Results in real-world scenario:
 
